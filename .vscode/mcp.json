@@ -1,6 +1,6 @@
 {
   "servers": {
-    "github": {
+    ".github": {
       "command": "docker",
       "args": [
         "run",
